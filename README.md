@@ -11,7 +11,7 @@ Summary: A pixi build backend to build CMake based packages.
 
 Development: https://github.com/prefix-dev/pixi
 
-Documentation: https://prefix-dev.github.io/pixi-build-backends
+Documentation: https://pixi.prefix.dev/latest/build/backends/pixi-build-cmake/
 
 This package provides a build backend for pixi that allows building packages using CMake.
 
